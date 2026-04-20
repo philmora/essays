@@ -1,9 +1,11 @@
 {
   "$schema": "./schema.json",
+  "_comment": "Title field may contain <em>...</em> HTML for inline emphasis (renders in signal orange on the site). Plain-text titles work too.",
   "essays": [
     {
       "slug": "the-pm-is-dead",
-      "title": "The PM Is Dead. Long Live the Builder.",
+      "title": "The PM Is Dead. <em>Long Live the Builder.</em>",
+      "title_plain": "The PM Is Dead. Long Live the Builder.",
       "dek": "Something broke in the last six months. Not broke in a bad way — broke like a dam breaks. Everything that was building up behind it is now rushing through.",
       "date": "2026-04-15",
       "reading_time": 14,
@@ -14,7 +16,8 @@
     },
     {
       "slug": "agents-as-teammates",
-      "title": "Agents as Teammates, Not Tools.",
+      "title": "Agents as <em>Teammates</em>, Not Tools.",
+      "title_plain": "Agents as Teammates, Not Tools.",
       "dek": "On assigning work to something that doesn't have a Slack avatar, doesn't go home, and still manages to surprise you.",
       "date": "2026-03-12",
       "reading_time": 11,
@@ -25,7 +28,8 @@
     },
     {
       "slug": "the-invisible-platform",
-      "title": "The Invisible Platform.",
+      "title": "The Invisible <em>Platform</em>.",
+      "title_plain": "The Invisible Platform.",
       "dek": "Five companies, 160 million lives, and one architecture that has to disappear into the floorboards before anyone trusts it.",
       "date": "2026-02-08",
       "reading_time": 9,
@@ -36,7 +40,8 @@
     },
     {
       "slug": "prototypes-vs-specs",
-      "title": "Prototypes > Specs.",
+      "title": "Prototypes > <em>Specs</em>.",
+      "title_plain": "Prototypes > Specs.",
       "dek": "The working thing ends the meeting. A short argument for showing before telling, in a field that is addicted to telling.",
       "date": "2026-01-22",
       "reading_time": 7,
