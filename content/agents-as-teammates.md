@@ -18,6 +18,8 @@ That's when the word "tool" stopped working for me.
 
 You don't apologize to a hammer. You don't get surprised by a wrench. You don't assign a compiler to a project and check in a week later to see what it made of the ambiguity. Tools don't have initiative. They do exactly what you ask, exactly when you ask it, and if you get a bad result it's because you gave them a bad instruction. Agents are not like this. Agents have initiative, memory, and the ability to push back. They are not tools. The sooner you stop calling them tools, the faster you'll figure out how to work with them.
 
+This isn't a vibes argument. It's a structural one. What's happening to "teammate" as a category is the third of roughly five simultaneous shifts that are breaking the way organizations think about work — and until you name it, you can't manage it.
+
 ## § 01 · The Slack avatar problem.
 
 There's a specific reason "tool" feels safe and "teammate" feels uncomfortable. It's the Slack avatar problem.
@@ -30,7 +32,21 @@ Agents are currently infrastructure by default. They don't have avatars. They do
 
 The bug shows up in specific ways. Nobody reviews an agent's work the way they'd review a junior engineer's. Nobody *teaches* an agent when it makes a mistake — they just adjust the prompt, which is different. Nobody gives them a second chance. Nobody builds a career path around them, because they're not a person. Meanwhile, these same agents are doing work that, two years ago, would have been done by a full-time person with a Slack avatar. The work moved. The organizational framing around the work did not.
 
-## § 02 · What changes when you assign work.
+## § 02 · Teams include non-humans now.
+
+When you spin up an AI agent that has persistence, memory, and the ability to take action, what do you call it?
+
+It's not quite a tool. Tools don't maintain context, don't learn from outcomes, don't get "assigned" work. Tools don't push back on a bad brief.
+
+It's not quite a teammate either — at least not in the way the word has meant for the last fifty years. The agent doesn't have judgment the way a human colleague has judgment. It doesn't navigate office politics. It doesn't have motivation you need to calibrate or a career you need to care about.
+
+It's something new. And because it's new, most organizations are treating it like the last familiar thing — a tool — instead of the thing it actually is, which is a *non-human participant in the work*.
+
+This category confusion is expensive. If you treat a teammate like a tool, you get configured output but no initiative. If you treat a tool like a teammate, you get surprised by something that was never designed to surprise you. The new category — agent, participant, whatever we end up calling it — requires its own operating manual, and most companies don't have one written yet.
+
+The cleanest way I've found to think about it: **agents are tools that act like teammates, and they have to be managed like teammates even though they aren't one.**
+
+## § 03 · What changes when you assign work.
 
 The cleanest litmus test I've found for whether someone has made the tool→teammate shift is how they talk about handing off work.
 
@@ -42,7 +58,21 @@ That linguistic shift is more than stylistic. It changes what you expect. When y
 
 The companies that are furthest ahead right now are the ones where this has happened organically: someone on the team started assigning work to the agents instead of using them, the quality of the work went up, and the framing propagated. The companies that are stuck are the ones where agents are deployed as productivity tools, accessed through a prompt box, and nobody ever says the agent's name out loud.
 
-## § 03 · Surprise: when agents have initiative.
+## § 04 · Where humans still dominate (and where they don't).
+
+Researchers who study skill acquisition distinguish between *kind* environments and *wicked* ones.
+
+Kind environments have clear rules, consistent patterns, fast feedback. Chess. Tax code. Radiology. Debugging syntax errors. Credential review. Contract analysis. These are domains where a lot of mastery comes from pattern recognition over structured data.
+
+Wicked environments have unclear rules, patterns that don't repeat cleanly, and delayed or noisy feedback. Organizational politics. Novel strategy problems. Calibrating a difficult personal conversation. Designing something no one has built before. Anything involving humans being fully human.
+
+Here's the pattern that matters: **AI is colonizing the kind environments first.** They're the ones where it excels — high-volume pattern recognition, consistent rules, documented expertise. Agents can now do a first pass on tax preparation, case law, medical imaging, and standard-config code reviews that outperforms most humans on the pattern-match layer.
+
+What the machine doesn't do — and what doesn't seem close to arriving — is *wicked*. It doesn't sit across from a client and understand that the legal question isn't the real question. It doesn't read the room in a negotiation, sense when opposing counsel is bluffing, know that this particular judge hates verbose briefs. It doesn't tell that the CEO asking about an IP dispute is actually worried about a co-founder relationship falling apart.
+
+The teammate relationship is built around *both sides of this*. Agents take the kind work. Humans take the wicked work. The handoff between them — knowing which kind of problem you're in, which participant is best suited to it, how the work moves back and forth — is the new skill nobody has trained for.
+
+## § 05 · Surprise: when agents have initiative.
 
 The hardest part of working with an agent teammate is when they take initiative you didn't ask for.
 
@@ -61,7 +91,7 @@ What works, in my experience:
 
 The initiative problem is not actually a problem. It's the signal that you've crossed from tool to teammate, and you need to start running the relationship like one.
 
-## § 04 · Org design around agents.
+## § 06 · Org design around agents.
 
 If agents are teammates, the org chart has to account for them. This is the part most companies haven't done.
 
@@ -79,7 +109,7 @@ Some specific things that change:
 
 None of this is hypothetical. Every company with serious agent adoption is figuring out some version of it, mostly in whispers and hallway conversations. The ones who get it written down first, who make the organizational design *explicit*, will be the ones that compound.
 
-## § 05 · The teammate contract.
+## § 07 · The teammate contract.
 
 Here's the simplest way I can describe what changes when you move from "prompted tool" to "assigned teammate":
 
@@ -98,7 +128,7 @@ The shift that matters most, for me, is the reputation one. My claims-triage age
 
 You cannot build that reputation with a tool. You can only build it with a teammate. Which means: the companies that invest in the relationship — logs, names, history, context, feedback — will have agent teammates that get better over time. The companies that treat every invocation as stateless will have agent tools that never improve beyond the starting point.
 
-## § 06 · The compounding advantage.
+## § 08 · The compounding advantage.
 
 I'll close with the thing that keeps me up.
 
