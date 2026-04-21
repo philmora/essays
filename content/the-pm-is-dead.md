@@ -137,13 +137,13 @@ If you're in the second group already, you mostly just need to keep doing what y
 
 ## § 08 · The title that doesn't matter.
 
-My title is "Sr. Director of Product." The work I do has almost nothing in common with what a Sr. Director of Product did five years ago. The title survives because the organizational machinery of Machinify requires a person who interfaces with the comp bands, the engineering ladder, the exec review rhythm. That person still has to exist. Someone has to take the meeting. Someone has to sign the offer letter.
+My title is "Sr. Director of Product." The work I do has almost nothing in common with what a Sr. Director of Product did five years ago. The title stays because organizational machinery — comp bands, engineering ladders, exec review rhythms — takes longer to evolve than the work itself. Someone still has to take the meeting. Someone still has to sign the offer letter. That part endures.
 
-But the work of that person is not the work the title describes. The work is being a builder-orchestrator embedded in a business that still has to pretend, for another year or two, that the old org chart is the real one.
+But the *work* of that person is not the work the old title describes. The work is being a builder-orchestrator embedded in a business that's actively inventing the new shape of itself as it goes. At Machinify, that's part of what makes this the best chapter of my career — you're not retrofitting an agent-native way of working onto a legacy org chart; you're building both in parallel, alongside a team that genuinely wants to be first.
 
-This is going to resolve. It always does. At some point — I'd guess inside of eighteen months — the titles will update, the ladders will update, the comp will update, and the people who have been quietly doing the new work will be legible to the market as the thing they already are. The ones who have been *pretending* will not make that transition.
+This is going to resolve everywhere, eventually. It always does. At some point — I'd guess inside of eighteen months — titles will catch up, ladders will catch up, comp will catch up, and the people who have been quietly doing the new work will be legible to the market as the thing they already are. The companies that give their people permission to do the new work before the machinery catches up are the ones that win the transition. I'm lucky enough to be inside one of them.
 
-I don't care that the title still says Product. Titles are reporting structure, not identity. The identity is in the work. The work is unrecognizable from where it was two years ago, and every month that passes pushes it further from the old shape.
+Titles are reporting structure, not identity. The identity is in the work. The work is unrecognizable from where it was two years ago, and every month that passes pushes it further into a future worth building.
 
 ---
 
