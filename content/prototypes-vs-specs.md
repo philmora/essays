@@ -7,7 +7,7 @@ reading_time: 7
 hero_image: ocean-sunrise.png
 tags: [product, shipping]
 published: true
-order: 6
+order: 1
 ---
 
 A working thing ends the meeting. Even a half-broken one ends most meetings, because the room finally has the same picture in their heads. A document never quite does that.

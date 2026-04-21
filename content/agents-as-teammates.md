@@ -7,7 +7,7 @@ reading_time: 11
 hero_image: prismatic-city.png
 tags: [ai-agents, organizational-design]
 published: true
-order: 8
+order: 7
 ---
 
 The first time I had to apologize to an agent, I realized the framing was wrong.

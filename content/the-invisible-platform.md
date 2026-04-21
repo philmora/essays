@@ -7,7 +7,7 @@ reading_time: 9
 hero_image: spring-glow.png
 tags: [infrastructure, healthcare, platforms]
 published: true
-order: 7
+order: 5
 ---
 
 The best platforms are *invisible*. They make everything else possible without calling attention to themselves. If your platform has a brand, it's probably not a platform yet.

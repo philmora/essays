@@ -7,7 +7,7 @@ reading_time: 14
 hero_image: cosmic-journey.png
 tags: [ai-agents, product, future-of-work]
 published: true
-order: 9
+order: 8
 ---
 
 Something broke in the last six months.
