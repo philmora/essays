@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Phil Mora · The Big Picture</title>
+  <subtitle>Dispatches on builder-operators in the agent era. CC BY 4.0.</subtitle>
+  <link href="https://philmora.com/feed.xml" rel="self" />
+  <link href="https://philmora.com" />
+  <id>https://philmora.com/</id>
+  <updated>2026-04-21T15:42:13Z</updated>
+  <author>
+    <name>Phil Mora</name>
+    <email>hi@philmora.com</email>
+  </author>
+  <rights>CC BY 4.0 — Phil Mora</rights>
+  <entry>
+    <title>The PM Is Dead. Long Live the Builder.</title>
+    <link href="https://philmora.com/essays/the-pm-is-dead" rel="alternate" />
+    <id>https://philmora.com/essays/the-pm-is-dead</id>
+    <published>2026-04-15T12:00:00Z</published>
+    <updated>2026-04-15T12:00:00Z</updated>
+    <summary>Something broke in the last six months. Not broke in a bad way — broke like a dam breaks. Everything that was building up behind it is now rushing through.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="ai-agents" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>Agents as Teammates, Not Tools.</title>
+    <link href="https://philmora.com/essays/agents-as-teammates" rel="alternate" />
+    <id>https://philmora.com/essays/agents-as-teammates</id>
+    <published>2026-03-12T12:00:00Z</published>
+    <updated>2026-03-12T12:00:00Z</updated>
+    <summary>On assigning work to something that doesn&#x27;t have a Slack avatar, doesn&#x27;t go home, and still manages to surprise you.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="ai-agents" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>From Code Wizards to Cosmic Architects.</title>
+    <link href="https://philmora.com/essays/code-wizards-to-cosmic-architects" rel="alternate" />
+    <id>https://philmora.com/essays/code-wizards-to-cosmic-architects</id>
+    <published>2026-03-03T12:00:00Z</published>
+    <updated>2026-03-03T12:00:00Z</updated>
+    <summary>Navigating the AI apocalypse in tech. The senior developer&#x27;s journey through grief — and out the other side as something new.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="ai-agents" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Invisible Platform.</title>
+    <link href="https://philmora.com/essays/the-invisible-platform" rel="alternate" />
+    <id>https://philmora.com/essays/the-invisible-platform</id>
+    <published>2026-02-08T12:00:00Z</published>
+    <updated>2026-02-08T12:00:00Z</updated>
+    <summary>Five companies, 160 million lives, and one architecture that has to disappear into the floorboards before anyone trusts it.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="infrastructure" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Expertise Inversion.</title>
+    <link href="https://philmora.com/essays/the-expertise-inversion" rel="alternate" />
+    <id>https://philmora.com/essays/the-expertise-inversion</id>
+    <published>2026-02-03T12:00:00Z</published>
+    <updated>2026-02-03T12:00:00Z</updated>
+    <summary>The knowledge that made you valuable is becoming the knowledge AI does best. Not because you did anything wrong — because the game inverted while you were playing it.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="polymath" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Combination Premium.</title>
+    <link href="https://philmora.com/essays/the-combination-premium" rel="alternate" />
+    <id>https://philmora.com/essays/the-combination-premium</id>
+    <published>2026-02-03T12:00:00Z</published>
+    <updated>2026-02-03T12:00:00Z</updated>
+    <summary>How to build the expertise AI can&#x27;t replicate. If depth alone isn&#x27;t the moat anymore, what is? The answer is surprisingly mathematical: combinations.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="polymath" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Five Breaks.</title>
+    <link href="https://philmora.com/essays/the-five-breaks" rel="alternate" />
+    <id>https://philmora.com/essays/the-five-breaks</id>
+    <published>2026-01-26T12:00:00Z</published>
+    <updated>2026-01-26T12:00:00Z</updated>
+    <summary>Something is happening to the structure of work that&#x27;s bigger than any single trend. AI gets the headlines. But AI is just the most visible part of a deeper shift.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="organizational-design" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>Prototypes &gt; Specs.</title>
+    <link href="https://philmora.com/essays/prototypes-vs-specs" rel="alternate" />
+    <id>https://philmora.com/essays/prototypes-vs-specs</id>
+    <published>2026-01-22T12:00:00Z</published>
+    <updated>2026-01-22T12:00:00Z</updated>
+    <summary>The working thing ends the meeting. A short argument for showing before telling, in a field that is addicted to telling.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="product" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+</feed>

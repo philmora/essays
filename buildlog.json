@@ -1,0 +1,53 @@
+{
+  "_comment": "Curated build log shown on philmora.com home page NOW section. Prepended entries are newest. Keep rolling 8-10 items.",
+  "entries": [
+    {
+      "time": "16:30",
+      "date": "2026-04-21",
+      "project": "philmora-site",
+      "note": "builder §05 + live build log shipped"
+    },
+    {
+      "time": "14:20",
+      "date": "2026-04-21",
+      "project": "philmora/essays",
+      "note": "8 dispatches published — editions 001–008 live"
+    },
+    {
+      "time": "11:02",
+      "date": "2026-04-21",
+      "project": "philmora-site",
+      "note": "essay detail pages rebuilt in Dispatch design"
+    },
+    {
+      "time": "09:15",
+      "date": "2026-04-20",
+      "project": "philmora/essays",
+      "note": "renumbered to chronological 001-008"
+    },
+    {
+      "time": "08:42",
+      "date": "2026-04-19",
+      "project": "vlognow/mora-slop",
+      "note": "12 skills running weekly on $200B claims platform"
+    },
+    {
+      "time": "17:45",
+      "date": "2026-04-18",
+      "project": "philmora-site",
+      "note": "mobile + tablet responsive rebuilt"
+    },
+    {
+      "time": "11:15",
+      "date": "2026-04-15",
+      "project": "philmora-site",
+      "note": "DNS migrated Weebly → Framer"
+    },
+    {
+      "time": "15:18",
+      "date": "2026-04-12",
+      "project": "machinify/platform",
+      "note": "agent-native claims rollout — plan #62 live"
+    }
+  ]
+}
