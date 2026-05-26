@@ -1,6 +1,6 @@
 ---
-slug: the-pm-is-dead
-title: "The PM Is Dead. <em>Long Live the Builder.</em>"
+slug: after-the-prd
+title: "<em>After</em> the PRD."
 dek: "Something broke in the last six months. Not broke in a bad way — broke like a dam breaks. Everything that was building up behind it is now rushing through."
 date: 2026-04-15
 reading_time: 14

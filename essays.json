@@ -3,14 +3,18 @@
   "_comment": "Title field may contain <em>...</em> HTML for inline emphasis (renders in signal orange on the site). Plain-text titles work too.",
   "essays": [
     {
-      "slug": "the-pm-is-dead",
-      "title": "The PM Is Dead. <em>Long Live the Builder.</em>",
-      "title_plain": "The PM Is Dead. Long Live the Builder.",
+      "slug": "after-the-prd",
+      "title": "<em>After</em> the PRD.",
+      "title_plain": "After the PRD.",
       "dek": "Something broke in the last six months. Not broke in a bad way — broke like a dam breaks. Everything that was building up behind it is now rushing through.",
       "date": "2026-04-15",
       "reading_time": 14,
       "hero_image": "cosmic-journey.png",
-      "tags": ["ai-agents", "product", "future-of-work"],
+      "tags": [
+        "ai-agents",
+        "product",
+        "future-of-work"
+      ],
       "published": true,
       "order": 8
     },
@@ -22,7 +26,10 @@
       "date": "2026-03-12",
       "reading_time": 11,
       "hero_image": "prismatic-city.png",
-      "tags": ["ai-agents", "organizational-design"],
+      "tags": [
+        "ai-agents",
+        "organizational-design"
+      ],
       "published": true,
       "order": 7
     },
@@ -34,7 +41,12 @@
       "date": "2026-03-03",
       "reading_time": 10,
       "hero_image": "butchsonic.png",
-      "tags": ["ai-agents", "career", "grief", "developers"],
+      "tags": [
+        "ai-agents",
+        "career",
+        "grief",
+        "developers"
+      ],
       "published": true,
       "order": 6
     },
@@ -46,7 +58,11 @@
       "date": "2026-02-08",
       "reading_time": 9,
       "hero_image": "spring-glow.png",
-      "tags": ["infrastructure", "healthcare", "platforms"],
+      "tags": [
+        "infrastructure",
+        "healthcare",
+        "platforms"
+      ],
       "published": true,
       "order": 5
     },
@@ -58,7 +74,11 @@
       "date": "2026-02-03",
       "reading_time": 9,
       "hero_image": "flower-anime.png",
-      "tags": ["polymath", "career", "ai-era"],
+      "tags": [
+        "polymath",
+        "career",
+        "ai-era"
+      ],
       "published": true,
       "order": 4
     },
@@ -70,7 +90,11 @@
       "date": "2026-02-03",
       "reading_time": 10,
       "hero_image": "titan-rising.png",
-      "tags": ["polymath", "career", "ai-era"],
+      "tags": [
+        "polymath",
+        "career",
+        "ai-era"
+      ],
       "published": true,
       "order": 3
     },
@@ -82,7 +106,11 @@
       "date": "2026-01-26",
       "reading_time": 9,
       "hero_image": "empire-of-worlds.png",
-      "tags": ["organizational-design", "future-of-work", "ai-agents"],
+      "tags": [
+        "organizational-design",
+        "future-of-work",
+        "ai-agents"
+      ],
       "published": true,
       "order": 2
     },
@@ -94,7 +122,10 @@
       "date": "2026-01-22",
       "reading_time": 7,
       "hero_image": "ocean-sunrise.png",
-      "tags": ["product", "shipping"],
+      "tags": [
+        "product",
+        "shipping"
+      ],
       "published": true,
       "order": 1
     }
