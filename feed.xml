@@ -5,16 +5,114 @@
   <link href="https://philmora.com/feed.xml" rel="self" />
   <link href="https://philmora.com" />
   <id>https://philmora.com/</id>
-  <updated>2026-04-21T15:42:13Z</updated>
+  <updated>2026-06-09T15:58:30Z</updated>
   <author>
     <name>Phil Mora</name>
     <email>hi@philmora.com</email>
   </author>
   <rights>CC BY 4.0 — Phil Mora</rights>
   <entry>
-    <title>The PM Is Dead. Long Live the Builder.</title>
-    <link href="https://philmora.com/essays/the-pm-is-dead" rel="alternate" />
-    <id>https://philmora.com/essays/the-pm-is-dead</id>
+    <title>The Second Brain.</title>
+    <link href="https://philmora.com/essays/the-second-brain" rel="alternate" />
+    <id>https://philmora.com/essays/the-second-brain</id>
+    <published>2026-06-09T12:00:00Z</published>
+    <updated>2026-06-09T12:00:00Z</updated>
+    <summary>Why personal knowledge management always failed, and why, for the first time, it works.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="second-brain" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Why Layer.</title>
+    <link href="https://philmora.com/essays/the-why-layer" rel="alternate" />
+    <id>https://philmora.com/essays/the-why-layer</id>
+    <published>2026-06-09T12:00:00Z</published>
+    <updated>2026-06-09T12:00:00Z</updated>
+    <summary>When reasoning becomes the unit of work, and the deliverable stops being the point.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="knowledge-management" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Work-Brain Mesh.</title>
+    <link href="https://philmora.com/essays/the-work-brain-mesh" rel="alternate" />
+    <id>https://philmora.com/essays/the-work-brain-mesh</id>
+    <published>2026-06-09T12:00:00Z</published>
+    <updated>2026-06-09T12:00:00Z</updated>
+    <summary>How to keep a second brain cheap enough to actually run: cost bound by query volume, not corpus size.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="ai-agents" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Org Proof.</title>
+    <link href="https://philmora.com/essays/the-org-proof" rel="alternate" />
+    <id>https://philmora.com/essays/the-org-proof</id>
+    <published>2026-06-09T12:00:00Z</published>
+    <updated>2026-06-09T12:00:00Z</updated>
+    <summary>What the mesh becomes when a whole company runs it: institutional memory that survives turnover.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="organizational-design" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Externalized Mind.</title>
+    <link href="https://philmora.com/essays/the-externalized-mind" rel="alternate" />
+    <id>https://philmora.com/essays/the-externalized-mind</id>
+    <published>2026-06-09T12:00:00Z</published>
+    <updated>2026-06-09T12:00:00Z</updated>
+    <summary>Bringing it home: the model is rented and improves on someone else&#x27;s schedule; the reasoning is owned and compounds on yours.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="second-brain" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Measured Mind.</title>
+    <link href="https://philmora.com/essays/the-measured-mind" rel="alternate" />
+    <id>https://philmora.com/essays/the-measured-mind</id>
+    <published>2026-06-09T12:00:00Z</published>
+    <updated>2026-06-09T12:00:00Z</updated>
+    <summary>Evals, recursive self-improvement, and the one instrument a self-maintaining mind is missing.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="evals" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>The Agentic Harness.</title>
+    <link href="https://philmora.com/essays/the-agentic-harness" rel="alternate" />
+    <id>https://philmora.com/essays/the-agentic-harness</id>
+    <published>2026-06-09T12:00:00Z</published>
+    <updated>2026-06-09T12:00:00Z</updated>
+    <summary>The model is the commodity. The environment you build around it is the moat.</summary>
+    <author>
+      <name>Phil Mora</name>
+      <email>hi@philmora.com</email>
+    </author>
+    <category term="ai-agents" />
+    <rights>CC BY 4.0</rights>
+  </entry>
+  <entry>
+    <title>After the PRD.</title>
+    <link href="https://philmora.com/essays/after-the-prd" rel="alternate" />
+    <id>https://philmora.com/essays/after-the-prd</id>
     <published>2026-04-15T12:00:00Z</published>
     <updated>2026-04-15T12:00:00Z</updated>
     <summary>Something broke in the last six months. Not broke in a bad way — broke like a dam breaks. Everything that was building up behind it is now rushing through.</summary>
