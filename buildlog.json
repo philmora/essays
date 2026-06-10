@@ -5,13 +5,13 @@
       "time": "16:30",
       "date": "2026-04-21",
       "project": "philmora-site",
-      "note": "builder §05 + live build log shipped"
+      "note": "builder \u00a705 + live build log shipped"
     },
     {
       "time": "14:20",
       "date": "2026-04-21",
       "project": "philmora/essays",
-      "note": "8 dispatches published — editions 001–008 live"
+      "note": "8 dispatches published \u2014 editions 001\u2013008 live"
     },
     {
       "time": "11:02",
@@ -28,7 +28,7 @@
     {
       "time": "08:42",
       "date": "2026-04-19",
-      "project": "vlognow/mora-slop",
+      "project": "private/skills-harness",
       "note": "12 skills running weekly on $200B claims platform"
     },
     {
@@ -41,13 +41,13 @@
       "time": "11:15",
       "date": "2026-04-15",
       "project": "philmora-site",
-      "note": "DNS migrated Weebly → Framer"
+      "note": "DNS migrated Weebly \u2192 Framer"
     },
     {
       "time": "15:18",
       "date": "2026-04-12",
-      "project": "machinify/platform",
-      "note": "agent-native claims rollout — plan #62 live"
+      "project": "machinify (work)",
+      "note": "agent-native claims rollout live"
     }
   ]
 }
