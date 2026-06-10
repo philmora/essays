@@ -123,7 +123,12 @@
       "date": "2026-06-10",
       "reading_time": "6 min",
       "published": true,
-      "hero_image": "https://files.catbox.moe/kyaavp.jpg"
+      "hero_image": "https://files.catbox.moe/kyaavp.jpg",
+      "tags": [
+        "second brain",
+        "claude code",
+        "open source"
+      ]
     },
     {
       "slug": "after-the-prd",
