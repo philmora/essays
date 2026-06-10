@@ -3,133 +3,6 @@
   "_comment": "Title field may contain <em>...</em> HTML for inline emphasis (renders in signal orange on the site). Plain-text titles work too.",
   "essays": [
     {
-      "slug": "after-the-prd",
-      "title": "<em>After</em> the PRD.",
-      "title_plain": "After the PRD.",
-      "dek": "Something broke in the last six months. Not broke in a bad way — broke like a dam breaks. Everything that was building up behind it is now rushing through.",
-      "date": "2026-04-15",
-      "reading_time": 14,
-      "hero_image": "cosmic-journey.png",
-      "tags": [
-        "ai-agents",
-        "product",
-        "future-of-work"
-      ],
-      "published": true,
-      "order": 8
-    },
-    {
-      "slug": "agents-as-teammates",
-      "title": "Agents as <em>Teammates</em>, Not Tools.",
-      "title_plain": "Agents as Teammates, Not Tools.",
-      "dek": "On assigning work to something that doesn't have a Slack avatar, doesn't go home, and still manages to surprise you.",
-      "date": "2026-03-12",
-      "reading_time": 11,
-      "hero_image": "prismatic-city.png",
-      "tags": [
-        "ai-agents",
-        "organizational-design"
-      ],
-      "published": true,
-      "order": 7
-    },
-    {
-      "slug": "code-wizards-to-cosmic-architects",
-      "title": "From Code Wizards to <em>Cosmic Architects</em>.",
-      "title_plain": "From Code Wizards to Cosmic Architects.",
-      "dek": "Navigating the AI apocalypse in tech. The senior developer's journey through grief — and out the other side as something new.",
-      "date": "2026-03-03",
-      "reading_time": 10,
-      "hero_image": "butchsonic.png",
-      "tags": [
-        "ai-agents",
-        "career",
-        "grief",
-        "developers"
-      ],
-      "published": true,
-      "order": 6
-    },
-    {
-      "slug": "the-invisible-platform",
-      "title": "The Invisible <em>Platform</em>.",
-      "title_plain": "The Invisible Platform.",
-      "dek": "Five companies, 160 million lives, and one architecture that has to disappear into the floorboards before anyone trusts it.",
-      "date": "2026-02-08",
-      "reading_time": 9,
-      "hero_image": "spring-glow.png",
-      "tags": [
-        "infrastructure",
-        "healthcare",
-        "platforms"
-      ],
-      "published": true,
-      "order": 5
-    },
-    {
-      "slug": "the-expertise-inversion",
-      "title": "The Expertise <em>Inversion</em>.",
-      "title_plain": "The Expertise Inversion.",
-      "dek": "The knowledge that made you valuable is becoming the knowledge AI does best. Not because you did anything wrong — because the game inverted while you were playing it.",
-      "date": "2026-02-03",
-      "reading_time": 9,
-      "hero_image": "flower-anime.png",
-      "tags": [
-        "polymath",
-        "career",
-        "ai-era"
-      ],
-      "published": true,
-      "order": 4
-    },
-    {
-      "slug": "the-combination-premium",
-      "title": "The Combination <em>Premium</em>.",
-      "title_plain": "The Combination Premium.",
-      "dek": "How to build the expertise AI can't replicate. If depth alone isn't the moat anymore, what is? The answer is surprisingly mathematical: combinations.",
-      "date": "2026-02-03",
-      "reading_time": 10,
-      "hero_image": "titan-rising.png",
-      "tags": [
-        "polymath",
-        "career",
-        "ai-era"
-      ],
-      "published": true,
-      "order": 3
-    },
-    {
-      "slug": "the-five-breaks",
-      "title": "The Five <em>Breaks</em>.",
-      "title_plain": "The Five Breaks.",
-      "dek": "Something is happening to the structure of work that's bigger than any single trend. AI gets the headlines. But AI is just the most visible part of a deeper shift.",
-      "date": "2026-01-26",
-      "reading_time": 9,
-      "hero_image": "empire-of-worlds.png",
-      "tags": [
-        "organizational-design",
-        "future-of-work",
-        "ai-agents"
-      ],
-      "published": true,
-      "order": 2
-    },
-    {
-      "slug": "prototypes-vs-specs",
-      "title": "Prototypes > <em>Specs</em>.",
-      "title_plain": "Prototypes > Specs.",
-      "dek": "The working thing ends the meeting. A short argument for showing before telling, in a field that is addicted to telling.",
-      "date": "2026-01-22",
-      "reading_time": 7,
-      "hero_image": "ocean-sunrise.png",
-      "tags": [
-        "product",
-        "shipping"
-      ],
-      "published": true,
-      "order": 1
-    },
-    {
       "slug": "the-second-brain",
       "title": "The <em>Second Brain</em>.",
       "title_plain": "The Second Brain.",
@@ -240,6 +113,144 @@
       ],
       "published": true,
       "order": 10
+    },
+    {
+      "order": 9,
+      "slug": "now-installable",
+      "title": "Now <em>Installable</em>.",
+      "title_plain": "Now Installable.",
+      "dek": "The Compounding Mind became a repo. One conversation installs your own measured second brain.",
+      "date": "2026-06-10",
+      "reading_time": "6 min",
+      "published": true,
+      "hero_image": "https://files.catbox.moe/kyaavp.jpg"
+    },
+    {
+      "slug": "after-the-prd",
+      "title": "<em>After</em> the PRD.",
+      "title_plain": "After the PRD.",
+      "dek": "Something broke in the last six months. Not broke in a bad way \u2014 broke like a dam breaks. Everything that was building up behind it is now rushing through.",
+      "date": "2026-04-15",
+      "reading_time": 14,
+      "hero_image": "cosmic-journey.png",
+      "tags": [
+        "ai-agents",
+        "product",
+        "future-of-work"
+      ],
+      "published": true,
+      "order": 8
+    },
+    {
+      "slug": "agents-as-teammates",
+      "title": "Agents as <em>Teammates</em>, Not Tools.",
+      "title_plain": "Agents as Teammates, Not Tools.",
+      "dek": "On assigning work to something that doesn't have a Slack avatar, doesn't go home, and still manages to surprise you.",
+      "date": "2026-03-12",
+      "reading_time": 11,
+      "hero_image": "prismatic-city.png",
+      "tags": [
+        "ai-agents",
+        "organizational-design"
+      ],
+      "published": true,
+      "order": 7
+    },
+    {
+      "slug": "code-wizards-to-cosmic-architects",
+      "title": "From Code Wizards to <em>Cosmic Architects</em>.",
+      "title_plain": "From Code Wizards to Cosmic Architects.",
+      "dek": "Navigating the AI apocalypse in tech. The senior developer's journey through grief \u2014 and out the other side as something new.",
+      "date": "2026-03-03",
+      "reading_time": 10,
+      "hero_image": "butchsonic.png",
+      "tags": [
+        "ai-agents",
+        "career",
+        "grief",
+        "developers"
+      ],
+      "published": true,
+      "order": 6
+    },
+    {
+      "slug": "the-invisible-platform",
+      "title": "The Invisible <em>Platform</em>.",
+      "title_plain": "The Invisible Platform.",
+      "dek": "Five companies, 160 million lives, and one architecture that has to disappear into the floorboards before anyone trusts it.",
+      "date": "2026-02-08",
+      "reading_time": 9,
+      "hero_image": "spring-glow.png",
+      "tags": [
+        "infrastructure",
+        "healthcare",
+        "platforms"
+      ],
+      "published": true,
+      "order": 5
+    },
+    {
+      "slug": "the-expertise-inversion",
+      "title": "The Expertise <em>Inversion</em>.",
+      "title_plain": "The Expertise Inversion.",
+      "dek": "The knowledge that made you valuable is becoming the knowledge AI does best. Not because you did anything wrong \u2014 because the game inverted while you were playing it.",
+      "date": "2026-02-03",
+      "reading_time": 9,
+      "hero_image": "flower-anime.png",
+      "tags": [
+        "polymath",
+        "career",
+        "ai-era"
+      ],
+      "published": true,
+      "order": 4
+    },
+    {
+      "slug": "the-combination-premium",
+      "title": "The Combination <em>Premium</em>.",
+      "title_plain": "The Combination Premium.",
+      "dek": "How to build the expertise AI can't replicate. If depth alone isn't the moat anymore, what is? The answer is surprisingly mathematical: combinations.",
+      "date": "2026-02-03",
+      "reading_time": 10,
+      "hero_image": "titan-rising.png",
+      "tags": [
+        "polymath",
+        "career",
+        "ai-era"
+      ],
+      "published": true,
+      "order": 3
+    },
+    {
+      "slug": "the-five-breaks",
+      "title": "The Five <em>Breaks</em>.",
+      "title_plain": "The Five Breaks.",
+      "dek": "Something is happening to the structure of work that's bigger than any single trend. AI gets the headlines. But AI is just the most visible part of a deeper shift.",
+      "date": "2026-01-26",
+      "reading_time": 9,
+      "hero_image": "empire-of-worlds.png",
+      "tags": [
+        "organizational-design",
+        "future-of-work",
+        "ai-agents"
+      ],
+      "published": true,
+      "order": 2
+    },
+    {
+      "slug": "prototypes-vs-specs",
+      "title": "Prototypes > <em>Specs</em>.",
+      "title_plain": "Prototypes > Specs.",
+      "dek": "The working thing ends the meeting. A short argument for showing before telling, in a field that is addicted to telling.",
+      "date": "2026-01-22",
+      "reading_time": 7,
+      "hero_image": "ocean-sunrise.png",
+      "tags": [
+        "product",
+        "shipping"
+      ],
+      "published": true,
+      "order": 1
     }
   ]
 }
