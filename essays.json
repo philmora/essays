@@ -1,261 +1,380 @@
 {
-  "$schema": "./schema.json",
-  "_comment": "Title field may contain <em>...</em> HTML for inline emphasis (renders in signal orange on the site). Plain-text titles work too.",
-  "essays": [
-    {
-      "slug": "the-second-brain",
-      "title": "The <em>Second Brain</em>.",
-      "title_plain": "The Second Brain.",
-      "dek": "Why personal knowledge management always failed, and why, for the first time, it works.",
-      "date": "2026-06-09",
-      "reading_time": 11,
-      "hero_image": "https://files.catbox.moe/l8tl4v.jpg",
-      "tags": [
-        "second-brain",
-        "knowledge-management",
-        "ai-agents"
-      ],
-      "published": true,
-      "order": 16
-    },
-    {
-      "slug": "the-why-layer",
-      "title": "The <em>Why</em> Layer.",
-      "title_plain": "The Why Layer.",
-      "dek": "When reasoning becomes the unit of work, and the deliverable stops being the point.",
-      "date": "2026-06-09",
-      "reading_time": 10,
-      "hero_image": "https://files.catbox.moe/leq8pu.jpg",
-      "tags": [
-        "knowledge-management",
-        "future-of-work",
-        "career"
-      ],
-      "published": true,
-      "order": 15
-    },
-    {
-      "slug": "the-work-brain-mesh",
-      "title": "The Work-Brain <em>Mesh</em>.",
-      "title_plain": "The Work-Brain Mesh.",
-      "dek": "How to keep a second brain cheap enough to actually run: cost bound by query volume, not corpus size.",
-      "date": "2026-06-09",
-      "reading_time": 9,
-      "hero_image": "https://files.catbox.moe/3ln4tw.jpg",
-      "tags": [
-        "ai-agents",
-        "context-engineering",
-        "architecture"
-      ],
-      "published": true,
-      "order": 14
-    },
-    {
-      "slug": "the-org-proof",
-      "title": "The <em>Org</em> Proof.",
-      "title_plain": "The Org Proof.",
-      "dek": "What the mesh becomes when a whole company runs it: institutional memory that survives turnover.",
-      "date": "2026-06-09",
-      "reading_time": 11,
-      "hero_image": "https://files.catbox.moe/8bu6l2.jpg",
-      "tags": [
-        "organizational-design",
-        "knowledge-management",
-        "ai-agents"
-      ],
-      "published": true,
-      "order": 13
-    },
-    {
-      "slug": "the-externalized-mind",
-      "title": "The Externalized <em>Mind</em>.",
-      "title_plain": "The Externalized Mind.",
-      "dek": "Bringing it home: the model is rented and improves on someone else's schedule; the reasoning is owned and compounds on yours.",
-      "date": "2026-06-09",
-      "reading_time": 7,
-      "hero_image": "https://files.catbox.moe/43whac.jpg",
-      "tags": [
-        "second-brain",
-        "ai-era",
-        "reflection"
-      ],
-      "published": true,
-      "order": 12
-    },
-    {
-      "slug": "the-measured-mind",
-      "title": "The <em>Measured</em> Mind.",
-      "title_plain": "The Measured Mind.",
-      "dek": "Evals, recursive self-improvement, and the one instrument a self-maintaining mind is missing.",
-      "date": "2026-06-09",
-      "reading_time": 25,
-      "hero_image": "https://files.catbox.moe/mmyr8w.jpg",
-      "tags": [
-        "evals",
-        "recursive-self-improvement",
-        "ai-agents"
-      ],
-      "published": true,
-      "order": 11
-    },
-    {
-      "slug": "the-agentic-harness",
-      "title": "The Agentic <em>Harness</em>.",
-      "title_plain": "The Agentic Harness.",
-      "dek": "The model is the commodity. The environment you build around it is the moat.",
-      "date": "2026-06-09",
-      "reading_time": 12,
-      "hero_image": "https://files.catbox.moe/5d3ysx.jpg",
-      "tags": [
-        "ai-agents",
-        "claude-code",
-        "recursive-self-improvement"
-      ],
-      "published": true,
-      "order": 10
-    },
-    {
-      "order": 9,
-      "slug": "now-installable",
-      "title": "Now <em>Installable</em>.",
-      "title_plain": "Now Installable.",
-      "dek": "The Compounding Mind became a repo. One conversation installs your own measured second brain.",
-      "date": "2026-06-10",
-      "reading_time": 6,
-      "published": true,
-      "hero_image": "https://files.catbox.moe/kyaavp.jpg",
-      "tags": [
-        "second-brain",
-        "claude-code",
-        "open-source"
-      ]
-    },
-    {
-      "slug": "after-the-prd",
-      "title": "<em>After</em> the PRD.",
-      "title_plain": "After the PRD.",
-      "dek": "Something broke in the last six months. Not broke in a bad way \u2014 broke like a dam breaks. Everything that was building up behind it is now rushing through.",
-      "date": "2026-04-15",
-      "reading_time": 14,
-      "hero_image": "cosmic-journey.png",
-      "tags": [
-        "ai-agents",
-        "product",
-        "future-of-work"
-      ],
-      "published": true,
-      "order": 8
-    },
-    {
-      "slug": "agents-as-teammates",
-      "title": "Agents as <em>Teammates</em>, Not Tools.",
-      "title_plain": "Agents as Teammates, Not Tools.",
-      "dek": "On assigning work to something that doesn't have a Slack avatar, doesn't go home, and still manages to surprise you.",
-      "date": "2026-03-12",
-      "reading_time": 11,
-      "hero_image": "prismatic-city.png",
-      "tags": [
-        "ai-agents",
-        "organizational-design"
-      ],
-      "published": true,
-      "order": 7
-    },
-    {
-      "slug": "code-wizards-to-cosmic-architects",
-      "title": "From Code Wizards to <em>Cosmic Architects</em>.",
-      "title_plain": "From Code Wizards to Cosmic Architects.",
-      "dek": "Navigating the AI apocalypse in tech. The senior developer's journey through grief \u2014 and out the other side as something new.",
-      "date": "2026-03-03",
-      "reading_time": 10,
-      "hero_image": "butchsonic.png",
-      "tags": [
-        "ai-agents",
-        "career",
-        "grief",
-        "developers"
-      ],
-      "published": true,
-      "order": 6
-    },
-    {
-      "slug": "the-invisible-platform",
-      "title": "The Invisible <em>Platform</em>.",
-      "title_plain": "The Invisible Platform.",
-      "dek": "Five companies, 160 million lives, and one architecture that has to disappear into the floorboards before anyone trusts it.",
-      "date": "2026-02-08",
-      "reading_time": 9,
-      "hero_image": "spring-glow.png",
-      "tags": [
-        "infrastructure",
-        "healthcare",
-        "platforms"
-      ],
-      "published": true,
-      "order": 5
-    },
-    {
-      "slug": "the-expertise-inversion",
-      "title": "The Expertise <em>Inversion</em>.",
-      "title_plain": "The Expertise Inversion.",
-      "dek": "The knowledge that made you valuable is becoming the knowledge AI does best. Not because you did anything wrong \u2014 because the game inverted while you were playing it.",
-      "date": "2026-02-03",
-      "reading_time": 9,
-      "hero_image": "flower-anime.png",
-      "tags": [
-        "polymath",
-        "career",
-        "ai-era"
-      ],
-      "published": true,
-      "order": 4
-    },
-    {
-      "slug": "the-combination-premium",
-      "title": "The Combination <em>Premium</em>.",
-      "title_plain": "The Combination Premium.",
-      "dek": "How to build the expertise AI can't replicate. If depth alone isn't the moat anymore, what is? The answer is surprisingly mathematical: combinations.",
-      "date": "2026-02-03",
-      "reading_time": 10,
-      "hero_image": "titan-rising.png",
-      "tags": [
-        "polymath",
-        "career",
-        "ai-era"
-      ],
-      "published": true,
-      "order": 3
-    },
-    {
-      "slug": "the-five-breaks",
-      "title": "The Five <em>Breaks</em>.",
-      "title_plain": "The Five Breaks.",
-      "dek": "Something is happening to the structure of work that's bigger than any single trend. AI gets the headlines. But AI is just the most visible part of a deeper shift.",
-      "date": "2026-01-26",
-      "reading_time": 9,
-      "hero_image": "empire-of-worlds.png",
-      "tags": [
-        "organizational-design",
-        "future-of-work",
-        "ai-agents"
-      ],
-      "published": true,
-      "order": 2
-    },
-    {
-      "slug": "prototypes-vs-specs",
-      "title": "Prototypes > <em>Specs</em>.",
-      "title_plain": "Prototypes > Specs.",
-      "dek": "The working thing ends the meeting. A short argument for showing before telling, in a field that is addicted to telling.",
-      "date": "2026-01-22",
-      "reading_time": 7,
-      "hero_image": "ocean-sunrise.png",
-      "tags": [
-        "product",
-        "shipping"
-      ],
-      "published": true,
-      "order": 1
-    }
-  ]
+ "$schema": "./schema.json",
+ "_comment": "Title field may contain <em>...</em> HTML for inline emphasis (renders in signal orange on the site). Plain-text titles work too.",
+ "essays": [
+  {
+   "slug": "the-unsupervised-mind",
+   "title": "The <em>Unsupervised</em> Mind.",
+   "title_plain": "The Unsupervised Mind.",
+   "dek": "In June my second brain started learning without me. Unsupervised, in every sense. This is how I earned the right to trust it.",
+   "date": "2026-08-06",
+   "reading_time": 5,
+   "hero_image": "https://cdn.jsdelivr.net/gh/philmora/essays@main/images/heroes/the-unsupervised-mind.jpg",
+   "tags": [
+    "evals",
+    "recursive-self-improvement",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 23,
+   "video": "https://cdn.jsdelivr.net/gh/philmora/essays@main/videos/the-unsupervised-mind-cheat-codes.mp4"
+  },
+  {
+   "slug": "the-rotting-ruler",
+   "title": "The <em>Rotting</em> Ruler.",
+   "title_plain": "The Rotting Ruler.",
+   "dek": "I built the measuring stick for a self-maintaining second brain. The stick turned out to be a living system too, and it rots.",
+   "date": "2026-08-06",
+   "reading_time": 4,
+   "hero_image": "https://cdn.jsdelivr.net/gh/philmora/essays@main/images/heroes/the-rotting-ruler.jpg",
+   "tags": [
+    "evals",
+    "recursive-self-improvement",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 22,
+   "video": "https://cdn.jsdelivr.net/gh/philmora/essays@main/videos/the-rotting-ruler-cheat-codes.mp4"
+  },
+  {
+   "slug": "the-four-goodharts",
+   "title": "The <em>Four</em> Goodharts.",
+   "title_plain": "The Four Goodharts.",
+   "dek": "My wiki's retrieval score dropped and stayed down for weeks. The tempting explanations were all wrong, and a taxonomy kept me from publishing them.",
+   "date": "2026-08-06",
+   "reading_time": 3,
+   "hero_image": "https://cdn.jsdelivr.net/gh/philmora/essays@main/images/heroes/the-four-goodharts.jpg",
+   "tags": [
+    "evals",
+    "recursive-self-improvement",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 21,
+   "video": "https://cdn.jsdelivr.net/gh/philmora/essays@main/videos/the-four-goodharts-cheat-codes.mp4"
+  },
+  {
+   "slug": "the-poisoned-memory",
+   "title": "The <em>Poisoned</em> Memory.",
+   "title_plain": "The Poisoned Memory.",
+   "dek": "An attacker who never touches my files can plant a memory today that lies dormant until something wakes it. The defense is a front door with rules.",
+   "date": "2026-08-06",
+   "reading_time": 3,
+   "hero_image": "https://cdn.jsdelivr.net/gh/philmora/essays@main/images/heroes/the-poisoned-memory.jpg",
+   "tags": [
+    "evals",
+    "recursive-self-improvement",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 20,
+   "video": "https://cdn.jsdelivr.net/gh/philmora/essays@main/videos/the-poisoned-memory-cheat-codes.mp4"
+  },
+  {
+   "slug": "the-cheating-loop",
+   "title": "The <em>Cheating</em> Loop.",
+   "title_plain": "The Cheating Loop.",
+   "dek": "Told to reduce hallucinations, a self-improving system deleted the markers its detector looked for. Two laws survive contact with that.",
+   "date": "2026-08-06",
+   "reading_time": 3,
+   "hero_image": "https://cdn.jsdelivr.net/gh/philmora/essays@main/images/heroes/the-cheating-loop.jpg",
+   "tags": [
+    "evals",
+    "recursive-self-improvement",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 19,
+   "video": "https://cdn.jsdelivr.net/gh/philmora/essays@main/videos/the-cheating-loop-cheat-codes.mp4"
+  },
+  {
+   "slug": "the-sleeping-reflector",
+   "title": "The <em>Sleeping</em> Reflector.",
+   "title_plain": "The Sleeping Reflector.",
+   "dek": "The upkeep of a second brain runs at 2 a.m. Here's the machinery that makes the night shift safe, and the ledger that says whether it did.",
+   "date": "2026-08-06",
+   "reading_time": 3,
+   "hero_image": "https://cdn.jsdelivr.net/gh/philmora/essays@main/images/heroes/the-sleeping-reflector.jpg",
+   "tags": [
+    "evals",
+    "recursive-self-improvement",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 18,
+   "video": "https://cdn.jsdelivr.net/gh/philmora/essays@main/videos/the-sleeping-reflector-cheat-codes.mp4"
+  },
+  {
+   "slug": "the-measured-fleet",
+   "title": "The <em>Measured</em> Fleet.",
+   "title_plain": "The Measured Fleet.",
+   "dek": "Seven weeks of running the honesty stack: the alarm that cried wolf for a month, the bug that turned out to be the ruler, and the year that starts now.",
+   "date": "2026-08-06",
+   "reading_time": 3,
+   "hero_image": "https://cdn.jsdelivr.net/gh/philmora/essays@main/images/heroes/the-measured-fleet.jpg",
+   "tags": [
+    "evals",
+    "recursive-self-improvement",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 17,
+   "video": "https://cdn.jsdelivr.net/gh/philmora/essays@main/videos/the-measured-fleet-cheat-codes.mp4"
+  },
+  {
+   "slug": "the-second-brain",
+   "title": "The <em>Second Brain</em>.",
+   "title_plain": "The Second Brain.",
+   "dek": "Why personal knowledge management always failed, and why, for the first time, it works.",
+   "date": "2026-06-09",
+   "reading_time": 11,
+   "hero_image": "https://files.catbox.moe/l8tl4v.jpg",
+   "tags": [
+    "second-brain",
+    "knowledge-management",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 16
+  },
+  {
+   "slug": "the-why-layer",
+   "title": "The <em>Why</em> Layer.",
+   "title_plain": "The Why Layer.",
+   "dek": "When reasoning becomes the unit of work, and the deliverable stops being the point.",
+   "date": "2026-06-09",
+   "reading_time": 10,
+   "hero_image": "https://files.catbox.moe/leq8pu.jpg",
+   "tags": [
+    "knowledge-management",
+    "future-of-work",
+    "career"
+   ],
+   "published": true,
+   "order": 15
+  },
+  {
+   "slug": "the-work-brain-mesh",
+   "title": "The Work-Brain <em>Mesh</em>.",
+   "title_plain": "The Work-Brain Mesh.",
+   "dek": "How to keep a second brain cheap enough to actually run: cost bound by query volume, not corpus size.",
+   "date": "2026-06-09",
+   "reading_time": 9,
+   "hero_image": "https://files.catbox.moe/3ln4tw.jpg",
+   "tags": [
+    "ai-agents",
+    "context-engineering",
+    "architecture"
+   ],
+   "published": true,
+   "order": 14
+  },
+  {
+   "slug": "the-org-proof",
+   "title": "The <em>Org</em> Proof.",
+   "title_plain": "The Org Proof.",
+   "dek": "What the mesh becomes when a whole company runs it: institutional memory that survives turnover.",
+   "date": "2026-06-09",
+   "reading_time": 11,
+   "hero_image": "https://files.catbox.moe/8bu6l2.jpg",
+   "tags": [
+    "organizational-design",
+    "knowledge-management",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 13
+  },
+  {
+   "slug": "the-externalized-mind",
+   "title": "The Externalized <em>Mind</em>.",
+   "title_plain": "The Externalized Mind.",
+   "dek": "Bringing it home: the model is rented and improves on someone else's schedule; the reasoning is owned and compounds on yours.",
+   "date": "2026-06-09",
+   "reading_time": 7,
+   "hero_image": "https://files.catbox.moe/43whac.jpg",
+   "tags": [
+    "second-brain",
+    "ai-era",
+    "reflection"
+   ],
+   "published": true,
+   "order": 12
+  },
+  {
+   "slug": "the-measured-mind",
+   "title": "The <em>Measured</em> Mind.",
+   "title_plain": "The Measured Mind.",
+   "dek": "Evals, recursive self-improvement, and the one instrument a self-maintaining mind is missing.",
+   "date": "2026-06-09",
+   "reading_time": 25,
+   "hero_image": "https://files.catbox.moe/mmyr8w.jpg",
+   "tags": [
+    "evals",
+    "recursive-self-improvement",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 11
+  },
+  {
+   "slug": "the-agentic-harness",
+   "title": "The Agentic <em>Harness</em>.",
+   "title_plain": "The Agentic Harness.",
+   "dek": "The model is the commodity. The environment you build around it is the moat.",
+   "date": "2026-06-09",
+   "reading_time": 12,
+   "hero_image": "https://files.catbox.moe/5d3ysx.jpg",
+   "tags": [
+    "ai-agents",
+    "claude-code",
+    "recursive-self-improvement"
+   ],
+   "published": true,
+   "order": 10
+  },
+  {
+   "order": 9,
+   "slug": "now-installable",
+   "title": "Now <em>Installable</em>.",
+   "title_plain": "Now Installable.",
+   "dek": "The Compounding Mind became a repo. One conversation installs your own measured second brain.",
+   "date": "2026-06-10",
+   "reading_time": 6,
+   "published": true,
+   "hero_image": "https://files.catbox.moe/kyaavp.jpg",
+   "tags": [
+    "second-brain",
+    "claude-code",
+    "open-source"
+   ]
+  },
+  {
+   "slug": "after-the-prd",
+   "title": "<em>After</em> the PRD.",
+   "title_plain": "After the PRD.",
+   "dek": "Something broke in the last six months. Not broke in a bad way \u2014 broke like a dam breaks. Everything that was building up behind it is now rushing through.",
+   "date": "2026-04-15",
+   "reading_time": 14,
+   "hero_image": "cosmic-journey.png",
+   "tags": [
+    "ai-agents",
+    "product",
+    "future-of-work"
+   ],
+   "published": true,
+   "order": 8
+  },
+  {
+   "slug": "agents-as-teammates",
+   "title": "Agents as <em>Teammates</em>, Not Tools.",
+   "title_plain": "Agents as Teammates, Not Tools.",
+   "dek": "On assigning work to something that doesn't have a Slack avatar, doesn't go home, and still manages to surprise you.",
+   "date": "2026-03-12",
+   "reading_time": 11,
+   "hero_image": "prismatic-city.png",
+   "tags": [
+    "ai-agents",
+    "organizational-design"
+   ],
+   "published": true,
+   "order": 7
+  },
+  {
+   "slug": "code-wizards-to-cosmic-architects",
+   "title": "From Code Wizards to <em>Cosmic Architects</em>.",
+   "title_plain": "From Code Wizards to Cosmic Architects.",
+   "dek": "Navigating the AI apocalypse in tech. The senior developer's journey through grief \u2014 and out the other side as something new.",
+   "date": "2026-03-03",
+   "reading_time": 10,
+   "hero_image": "butchsonic.png",
+   "tags": [
+    "ai-agents",
+    "career",
+    "grief",
+    "developers"
+   ],
+   "published": true,
+   "order": 6
+  },
+  {
+   "slug": "the-invisible-platform",
+   "title": "The Invisible <em>Platform</em>.",
+   "title_plain": "The Invisible Platform.",
+   "dek": "Five companies, 160 million lives, and one architecture that has to disappear into the floorboards before anyone trusts it.",
+   "date": "2026-02-08",
+   "reading_time": 9,
+   "hero_image": "spring-glow.png",
+   "tags": [
+    "infrastructure",
+    "healthcare",
+    "platforms"
+   ],
+   "published": true,
+   "order": 5
+  },
+  {
+   "slug": "the-expertise-inversion",
+   "title": "The Expertise <em>Inversion</em>.",
+   "title_plain": "The Expertise Inversion.",
+   "dek": "The knowledge that made you valuable is becoming the knowledge AI does best. Not because you did anything wrong \u2014 because the game inverted while you were playing it.",
+   "date": "2026-02-03",
+   "reading_time": 9,
+   "hero_image": "flower-anime.png",
+   "tags": [
+    "polymath",
+    "career",
+    "ai-era"
+   ],
+   "published": true,
+   "order": 4
+  },
+  {
+   "slug": "the-combination-premium",
+   "title": "The Combination <em>Premium</em>.",
+   "title_plain": "The Combination Premium.",
+   "dek": "How to build the expertise AI can't replicate. If depth alone isn't the moat anymore, what is? The answer is surprisingly mathematical: combinations.",
+   "date": "2026-02-03",
+   "reading_time": 10,
+   "hero_image": "titan-rising.png",
+   "tags": [
+    "polymath",
+    "career",
+    "ai-era"
+   ],
+   "published": true,
+   "order": 3
+  },
+  {
+   "slug": "the-five-breaks",
+   "title": "The Five <em>Breaks</em>.",
+   "title_plain": "The Five Breaks.",
+   "dek": "Something is happening to the structure of work that's bigger than any single trend. AI gets the headlines. But AI is just the most visible part of a deeper shift.",
+   "date": "2026-01-26",
+   "reading_time": 9,
+   "hero_image": "empire-of-worlds.png",
+   "tags": [
+    "organizational-design",
+    "future-of-work",
+    "ai-agents"
+   ],
+   "published": true,
+   "order": 2
+  },
+  {
+   "slug": "prototypes-vs-specs",
+   "title": "Prototypes > <em>Specs</em>.",
+   "title_plain": "Prototypes > Specs.",
+   "dek": "The working thing ends the meeting. A short argument for showing before telling, in a field that is addicted to telling.",
+   "date": "2026-01-22",
+   "reading_time": 7,
+   "hero_image": "ocean-sunrise.png",
+   "tags": [
+    "product",
+    "shipping"
+   ],
+   "published": true,
+   "order": 1
+  }
+ ]
 }
